@@ -14,5 +14,4 @@ I'm Utkarsh from India and I do Full Stack web Development.I really enjoy learni
 
 ### :fire: My Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarsh07-co-in&count_private=true)
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh07-co-in)](https://github.com/utkarsh07-co-in/github-readme-stats)
