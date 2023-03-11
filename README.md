@@ -6,6 +6,9 @@ I'm Utkarsh from India and I do Full Stack web Development.I really enjoy learni
 * React
 * 📘React Native
 * 💻HTML,CSS,JS
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 ---
 
 ### :fire: My Stats :
