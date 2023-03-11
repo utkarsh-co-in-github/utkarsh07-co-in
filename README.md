@@ -7,3 +7,4 @@ I'm Utkarsh from India and I do Full Stack web Development.I really enjoy learni
 https://github-readme-streak-stats.herokuapp.com/?user=your-github-utkarshrajsinha
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/utkarshrajsinha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/utkarshrajsinha/github-readme-stats)
